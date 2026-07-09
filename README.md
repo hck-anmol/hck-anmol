@@ -208,10 +208,10 @@ Real-time voice-powered system control with AI integration.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hck-anmol&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hck-anmol&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hck-anmol&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&cache_seconds=86400" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hck-anmol&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&cache_seconds=86400" />
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hck-anmol&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" />
+<img width="70%" src="https://streak-stats.demolab.com?user=hck-anmol&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=C9D1D9" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hck-anmol&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="90%"/>
 
