@@ -247,8 +247,8 @@ Real-time voice-powered system control with AI integration.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-My_Portfolio-7C3AED?style=for-the-badge)](https://anmol-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmolkrj006)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-My_Portfolio-7C3AED?style=for-the-badge)](https://portfolio-anmolkj.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmolkrjha006/)
 [![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmolkrj006@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_anmolkj_/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Compete-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/anmolkjha)
