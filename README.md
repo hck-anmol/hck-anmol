@@ -92,6 +92,8 @@ print(me.currently_building)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-F26522?style=for-the-badge&logo=langchain&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
@@ -229,7 +231,7 @@ A smart personal finance management app with real-time tracking, budgeting, and 
 | 🏆 Hackathon Finalist | **Finalist @ Hackatron, IIIT Gwalior** |
 | 🏆 Hackathon Finalist | **Finalist @ Odoo Hackathon 2026** |
 | 🏆 Competitive Programming | **3 ⭐ @ CodeChef** \| **Pupil @ Codeforces** |
-| 💻 Problem Solving | **450+ Questions** solved across all platforms |
+| 💻 Problem Solving | **550+ Questions** solved across all platforms |
 | 🌍 Open Source | **Contributor @ GirlScript Summer of Code 2026** |
 | 📐 JEE Advanced | **AIR ~13,000** |
 | 📊 JEE Main | **98.4 Percentile** |
