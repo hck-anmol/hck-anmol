@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anmol%20Kumar%20Jha&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+%26+Scalable+Systems+%F0%9F%A7%A0;AI+%2B+Full-Stack+%3D+The+Future+%F0%9F%9A%80;Real-Time+Apps+%7C+Computer+Vision+%7C+RAG;C%2B%2B+%7C+Python+%7C+JavaScript+%7C+MERN+Stack;Finalist+%40+Hackatron%2C+IIIT+Gwalior+%F0%9F%8F%86" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Building+Intelligent+%26+Scalable+Systems+%F0%9F%A7%A0;AI+%2B+Full-Stack+%3D+The+Future+%F0%9F%9A%80;Real-Time+Apps+%7C+Computer+Vision+%7C+RAG;Winner+%40+Intellify+4.0+National+Hackathon+%F0%9F%8F%86;Finalist+%40+Hackatron+%26+Odoo+Hackathon+2026+%F0%9F%94%A5" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -124,19 +124,17 @@ print(me.currently_building)
 <tr>
 <td width="50%" valign="top">
 
-### 🚦 TRAFF-IQ — Intelligent Traffic Management
-> **Finalist @ Hackatron, IIIT Gwalior 🏆**
+### 🔍 TRUTHLENS — AI Fact-Checking Platform
 
-An AI-powered adaptive traffic control system with real-time detection and signal optimization.
+An AI-powered misinformation detection system that verifies claims in real time using LLMs and RAG pipelines.
 
 **Key Features:**
-- 🎯 **90% accuracy** emergency vehicle detection with priority-based signal clearance
-- 📊 **85% accuracy** traffic density estimation & dynamic signal timing
-- 🚨 **85% accuracy** red-light & traffic rule violation detection
-- 📡 Live dashboard via **Flask + Node.js + Socket.io** pipeline
-- 🔧 Arduino hardware integration for on-ground signal actuation
+- 🧠 LLM-based claim verification with source attribution
+- 🔗 RAG pipeline for real-time knowledge retrieval
+- 📰 News and social media content analysis
+- ✅ Credibility scoring with explainable reasoning
 
-**Stack:** `Python` `YOLOv8` `OpenCV` `Flask` `Node.js` `Socket.io` `Arduino`
+**Stack:** `Python` `LangChain` `RAG` `Flask` `React` `OpenAI API`
 
 </td>
 <td width="50%" valign="top">
@@ -158,37 +156,39 @@ A real-time collaborative drawing & guessing platform with full game logic.
 <tr>
 <td width="50%" valign="top">
 
-### 📚 ACADMATE — Academic Management App
+### 🚦 TRAFF-IQ — Intelligent Traffic Management
+> **Finalist @ Hackatron, IIIT Gwalior 🏆**
 
-A cross-platform Flutter app digitizing academic workflows for institutions.
+An AI-powered adaptive traffic control system with real-time detection and signal optimization.
 
 **Key Features:**
-- 👥 **4 user roles** — Student, Teacher, CR, Admin with RBAC
-- ⚡ Firebase real-time sync with **<1s latency** across all users
-- 📉 Reduced manual administrative effort by **50%**
-- 🧩 Modular architecture reducing future dev effort by **35%**
+- 🎯 **90% accuracy** emergency vehicle detection with priority-based signal clearance
+- 📊 **85% accuracy** traffic density estimation & dynamic signal timing
+- 🚨 **85% accuracy** red-light & traffic rule violation detection
+- 📡 Live dashboard via **Flask + Node.js + Socket.io** pipeline
+- 🔧 Arduino hardware integration for on-ground signal actuation
 
-**Stack:** `Flutter` `Dart` `Firebase Auth` `Cloud Firestore` `Firebase Storage`
+**Stack:** `Python` `YOLOv8` `OpenCV` `Flask` `Node.js` `Socket.io` `Arduino`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎤 NOVA — Voice-Assisted Computer Control *(In Progress)*
+### 💰 ASSETFLOW — Personal Finance Tracker
 
-Real-time voice-powered system control with AI integration.
+A smart personal finance management app with real-time tracking, budgeting, and AI-powered insights.
 
-**Vision:**
-- 🗣️ Natural language commands for system automation
-- 🧠 AI-driven intent recognition pipeline
-- ⚡ Low-latency real-time audio processing
+**Key Features:**
+- 📊 Real-time expense tracking & budget management
+- 🤖 AI-driven spending insights and recommendations
+- 📈 Visual analytics with charts and category breakdowns
+- 🔔 Smart alerts for budget limits and unusual spending
 
-**Stack:** `Python` `AI/ML` `Real-time Processing`
-
-> 🔨 *Currently building...*
+**Stack:** `React` `Node.js` `MongoDB` `Express` `Chart.js`
 
 </td>
 </tr>
 </table>
+
 
 ---
 
@@ -225,9 +225,11 @@ Real-time voice-powered system control with AI integration.
 
 | 🏅 Achievement | 📌 Details |
 |---|---|
+| 🥇 National Hackathon | **Winner @ Intellify 4.0 — National Hackathon** |
+| 🏆 Hackathon Finalist | **Finalist @ Hackatron, IIIT Gwalior** |
+| 🏆 Hackathon Finalist | **Finalist @ Odoo Hackathon 2026** |
 | 🏆 Competitive Programming | **3 ⭐ @ CodeChef** \| **Pupil @ Codeforces** |
 | 💻 Problem Solving | **450+ Questions** solved across all platforms |
-| 🎯 Hackathons | **Finalist @ Hackatron, IIIT Gwalior** |
 | 🌍 Open Source | **Contributor @ GirlScript Summer of Code 2026** |
 | 📐 JEE Advanced | **AIR ~13,000** |
 | 📊 JEE Main | **98.4 Percentile** |
